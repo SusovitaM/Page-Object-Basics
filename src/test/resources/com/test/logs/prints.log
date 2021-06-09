@@ -1,0 +1,4 @@
+20:30:46.693 [main] DEBUG com.test.base.Page - Entering value sony.swastik@gmail.com in an element :email_CSS
+20:30:46.748 [main] DEBUG com.test.base.Page - Clicking on an element :loginNextBtn_CSS
+20:30:47.061 [main] DEBUG com.test.base.Page - Entering value Selenium@1 in an element :password_CSS
+20:30:47.123 [main] DEBUG com.test.base.Page - Clicking on an element :signINBtn_CSS

@@ -1,0 +1,6 @@
+20:00:37.641 [main] DEBUG com.test.base.Page - OR file loaded
+20:00:39.527 [main] DEBUG com.test.base.Page - Chrome launched
+20:00:41.929 [main] DEBUG com.test.base.Page - Navigated to :http://zoho.com
+20:00:42.227 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+20:00:42.228 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+20:00:43.778 [main] DEBUG com.test.base.Page - Clicking on an element :loginLink_CSS
